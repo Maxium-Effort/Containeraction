@@ -11,4 +11,4 @@ outputs:
     description: 'total memory'
 runs:
   using: 'docker'
-  image: 'Doskerfile'
+  image: 'Dockerfile'
